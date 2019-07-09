@@ -1,0 +1,4 @@
+var name="Nexgile";
+var time=4;
+document.write(name);
+document.write(time);
